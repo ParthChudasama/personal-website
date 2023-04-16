@@ -316,7 +316,7 @@ const Featured = () => {
               title
               tech
               github
-              external
+
             }
             html
           }
