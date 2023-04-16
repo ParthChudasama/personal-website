@@ -145,7 +145,7 @@ const About = () => {
               to help researchers. My main focus these days is building and scaling machine learning
               systems.
             </p>
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>I have explicit, firsthand experience with the following technologies:</p>
           </div>
 
           <ul className="skills-list">
