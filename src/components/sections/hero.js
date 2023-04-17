@@ -66,9 +66,10 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in developing NLP solutions, and optimizing Machine
-        Learning sytems. Currently, I’m focused on building products researchers worldwide at{' '}
+        Learning sytems. Currently, I am responsible for developing and implementing innovative solutions
+        that drive research initiatives at{' '}
         <a href="https://cactusglobal.com/" target="_blank" rel="noreferrer">
-          Cactus Global
+          Cactus Global{' '}
         </a>
         .
       </p>
