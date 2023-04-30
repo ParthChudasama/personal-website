@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Parth Chudasama <parthchudasama2@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": ""
   },
   "keywords": [
     "gatsby"
@@ -32,9 +32,10 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
-    "babel-plugin-styled-components": "^1.12.0",
+    "babel-plugin-styled-components": "^1.13.3",
     "gatsby": "^3.4.1",
     "gatsby-plugin-google-analytics": "^3.4.0",
+    "gatsby-plugin-google-gtag": "^5.9.0",
     "gatsby-plugin-image": "^1.4.0",
     "gatsby-plugin-manifest": "^3.4.0",
     "gatsby-plugin-netlify": "^3.4.0",
@@ -50,9 +51,9 @@
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "prismjs": "^1.27.0",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
