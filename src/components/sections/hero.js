@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in developing NLP solutions, and optimizing Machine
-        Learning sytems. Currently, I am responsible for developing and implementing innovative solutions
+        I’m a software engineer specializing in developing NLP solutions, optimizing Machine
+        Learning sytems and System design. Currently, I am responsible for developing innovative solutions
         that drive research initiatives at{' '}
         <a href="https://cactusglobal.com/" target="_blank" rel="noreferrer">
           Cactus Global{' '}

@@ -9,6 +9,7 @@ url: 'https://cactusglobal.com/'
 
 - Developed a pseudo-data generation module for language translation model, improved F-score(0.5) by over 24%.
 - Reduced inferencing time by 50% for existing translation models.
-- Crafted a cutting-edge platform for model deployment, leveraging the power of Nvidia Triton and AWS Sagemaker.
+- Produced reusable code components and libraries, leading to a 25% reduction in development time for new features.
+- Led the architectural design and implementation of RESTful APIs, resulting in improved performance and scalability
 - Collaborated with engineering leadership to devise and design innovative solutions for complex challenges.
 - Spearheaded migration to mircoservices, reduced cost by 25% and improved latency by 30%

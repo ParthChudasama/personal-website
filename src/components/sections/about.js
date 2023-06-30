@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'GoLang', 'AWS', 'Pytorch', 'FastAPI', 'REST APIs'];
+  const skills = ['Python', 'GoLang', 'AWS', 'Pytorch', 'FastAPI', 'REST APIs', 'NoSQL', 'System Design'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,15 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Parth and I am a software engineer. My interests include Machine
-              Learning, natural language processing, building scalable systems and automating
-              mundane tasks!
+            Welcome to my corner of the web! I'm Parth, and I'm thrilled to have this opportunity to share a
+             little bit about myself. If I were to describe myself in a few words, I'd say I'm an adaptable, innovative,
+              and results-driven technologist.
             </p>
-
             <p>
-              I currently work at <a href="https://cactusglobal.com/">Cactus</a>, we build products
-              to help researchers. My main focus these days is building and scaling machine learning
-              systems.
+            When I'm not immersed in the world of technology, you can find me indulging in my passion for exploring the outdoors, or diving into a captivating book. These activities provide me with the balance and 
+            inspiration necessary to bring fresh perspectives to my work.
+            </p>
+            <p>
+            I invite you to explore my website further to learn more about my projects, expertise, and the impact
+             I've made in the tech industry. If you share a passion for innovation, problem-solving, and achieving remarkable results,
+              I'd love to connect and collaborate with you. Let's embark on a journey of transforming ideas into reality and pushing the boundaries of what's possible!
             </p>
             <p>I have explicit, firsthand experience with the following technologies:</p>
           </div>
