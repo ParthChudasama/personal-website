@@ -61,17 +61,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Parth Chudasama.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = (
+    <h3 className="big-heading">I engineer impactful products that leave a lasting impression.</h3>
+  );
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in developing NLP solutions, optimizing Machine
-        Learning sytems and System design. Currently, I am responsible for developing innovative solutions
-        that drive research initiatives at{' '}
-        <a href="https://cactusglobal.com/" target="_blank" rel="noreferrer">
-          Cactus Global{' '}
-        </a>
-        .
+        I am a software engineer with expertise in crafting Natural Language Processing (NLP)
+        solutions, fine-tuning Machine Learning systems, and designing robust software
+        architectures. Presently, I am focused on enhancing the Ticketing experience, leveraging my
+        past experience in developing AI solutions to expedite Academic publishing.
       </p>
     </>
   );
