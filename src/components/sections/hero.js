@@ -67,10 +67,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a software engineer with expertise in crafting Natural Language Processing (NLP)
-        solutions, fine-tuning Machine Learning systems, and designing robust software
-        architectures. Presently, I am focused on enhancing the Ticketing experience, leveraging my
-        past experience in developing AI solutions to expedite Academic publishing.
+        I am a software engineer specializing in building reliable, scalable systems across Machine
+        Learning and backend domains. My work spans productionizing AI solutions, optimizing
+        distributed infrastructure, and improving system observability—currently focused on
+        enhancing platform reliability in high-demand environments.
       </p>
     </>
   );

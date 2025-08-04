@@ -7,8 +7,9 @@ range: 'Aug 2020 - Jun 2023 '
 url: 'https://cactusglobal.com/'
 ---
 
-- Developed a pseudo-data generation module for language translation model, improved F-score(0.5) by over 24%.
-- Reduced inferencing time by 50% for existing translation models.
-- Led the architectural design and implementation of RESTful APIs, resulting in improved performance and scalability
-- Collaborated with engineering leadership to devise and design innovative solutions for complex challenges.
-- Spearheaded migration to mircoservices, reduced cost by 25% and improved latency by 30%
+- Developed supporting NLP modules to improve the accuracy of a machine translation model by 15%
+- Moved short lived services to serverless, resulting in 30% cost savings and better peak load management
+- Developed an lambda pipeline to scrape data and store in S3, and query using AWS Athena
+- Developed custom module for synthetic data generation and data augmentation using Apache airflow
+- Automated provisioning of model training infrastructure using Terraform, developed reusable modules
+- Developed real-time scalable REST API using FastAPI, capable of supporting 100TPS
